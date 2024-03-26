@@ -1,0 +1,5 @@
+super user auth :
+
+username :admin
+Email: mahdy@admin.com
+password : mahdy123456
